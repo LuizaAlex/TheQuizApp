@@ -2,7 +2,7 @@
  
 
 
-**Quiz App** is an Android application that allows users to answer math questions fetched from a local database. This project uses a MySQL database and a custom API built in PHP to transform data into JSON format. Using **Retrofit**, the app fetches data from the API and displays it to the user through a clean and simple interface.
+**Quiz App** is an Android application that allows users to answer books related questions fetched from a local database. This project uses a MySQL database and a custom API built in PHP to transform data into JSON format. Using **Retrofit**, the app fetches data from the API and displays it to the user through a clean and simple interface.
 
 ## Features
 
